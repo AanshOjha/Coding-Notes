@@ -31,7 +31,7 @@
             "folder_separator_icon": "/",
             "home_icon": "~",
             "max_depth": 3,
-            "style": "agnoster_short"
+            "style": "folder"
           },
           "style": "powerline",
           "template": " {{ .Path }} ",
