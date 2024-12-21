@@ -30,7 +30,6 @@
             "folder_icon": "...",
             "folder_separator_icon": "/",
             "home_icon": "~",
-            "max_depth": 3,
             "style": "folder_name"
           },
           "style": "powerline",
