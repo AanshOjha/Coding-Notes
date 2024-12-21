@@ -30,7 +30,7 @@
             "folder_icon": "...",
             "folder_separator_icon": "/",
             "home_icon": "~",
-            "style": "folder_name"
+            "style": "basename"
           },
           "style": "powerline",
           "template": " {{ .Path }} ",
