@@ -27,10 +27,6 @@
           "foreground": "#EFDCF9",
           "powerline_symbol": "\ue0b4",
           "properties": {
-            "folder_icon": "...",
-            "folder_separator_icon": "/",
-            "home_icon": "~",
-            "max_depth": 3,
             "style": "folder"
           },
           "style": "powerline",
