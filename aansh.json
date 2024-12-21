@@ -30,7 +30,8 @@
             "folder_icon": "...",
             "folder_separator_icon": "/",
             "home_icon": "~",
-            "style": "basename"
+            "max_depth": 3,
+            "style": "agnoster_short"
           },
           "style": "powerline",
           "template": " {{ .Path }} ",
